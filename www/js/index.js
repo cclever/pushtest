@@ -48,7 +48,7 @@ var app = {
 
 
         var pushNotification = window.plugins.pushNotification;
-        pushNotification.register(app.successHandler, app.errorHandler,{"senderID":"524397002205","ecb":"app.onNotificationGCM"}); //even-equinox-87910
+        pushNotification.register(app.successHandler, app.errorHandler,{"senderID":"AIzaSyAAEpKcHGDv0zDwjKXmCoErNBZEXa3jiDM","ecb":"app.onNotificationGCM"}); //even-equinox-87910 oder 524397002205
 
 
     },
